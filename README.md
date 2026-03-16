@@ -28,6 +28,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Classification metrics and evaluation
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week4/L04_Logistic_Regression.ipynb)
 
+- [**Week 5**: Supervised Learning and Hyperparameter Tuning](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week5)
+  - Supervised learning fundamentals
+  - Hyperparameter tuning techniques
+  - Learning curves and model diagnostics
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week5/L05_Supervised_Learning.ipynb)
+
 
 ## How to use Google Colab
 
