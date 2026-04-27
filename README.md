@@ -52,6 +52,24 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Kernel trick and non-linear classification (RBF kernel)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week8/L08_SVMs.ipynb)
 
+- [**Week 9**: Decision Trees](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week9)
+  - Recursive partitioning and splitting criteria (Gini, entropy)
+  - Overfitting and tree pruning techniques
+  - Ensemble methods and Random Forests
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week9/L09_Decision_Trees.ipynb)
+
+- [**Week 10**: Generative Models](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week10)
+  - Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP)
+  - Naive Bayes classifiers and conditional independence
+  - Generative vs. discriminative approaches
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week10/L10_GenerativeModels_Assignment.ipynb)
+
+- [**Week 11**: Clustering](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week11)
+  - K-means, hierarchical clustering, and DBSCAN
+  - Choosing the number of clusters (elbow method, silhouette analysis)
+  - Evaluation metrics for unsupervised learning
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week11/L11_Clustering.ipynb)
+
 
 ## How to use Google Colab
 
